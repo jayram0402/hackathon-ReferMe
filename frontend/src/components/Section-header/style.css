@@ -1,0 +1,29 @@
+.thin-header {
+    font-size: var(--header-font-size);
+    color: var(--Very-Dark-Blue);
+    font-family: var(--font-family);
+    font-weight: 200;
+    margin: 2rem auto 0 auto;
+}
+
+.thick-header {
+    font-size: var(--header-font-size);
+    color: var(--Very-Dark-Blue);
+    font-family: var(--font-family);
+    font-weight: 600;
+    margin: 0 auto;
+}
+
+.subheader {
+    font-size: var(--body-font-size);
+    color: var(--Grayish-Blue);
+    font-family: var(--font-family);
+    font-weight: 400;
+    max-width: 500px;
+    margin: 1rem  auto;
+}
+
+.Section-header {
+    display: flex;
+    flex-flow: column wrap;
+}
