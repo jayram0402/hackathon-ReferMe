@@ -20,12 +20,12 @@ To set up ReferralNetworkHub locally for development or testing purposes, follow
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/hackathon-ReferMe.git
+   git clone https://github.com/jayram0402/hackathon-ReferMe.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ReferralNetworkHub
+   cd hackathon-ReferMe
    ```
 
 3. Install dependencies for both backend and frontend:
