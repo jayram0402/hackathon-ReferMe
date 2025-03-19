@@ -24,10 +24,13 @@ As an Job Seeker:
 
 ReferMe is an AI-driven, referral-based hiring platform that streamlines recruitment by leveraging professional networks. Key features include:
 
--**Referral System:** Employees and professionals can refer candidates and earn rewards for successful hires.
--**Pre-Screening Interviews:** Referrers conduct short interviews before HR review, ensuring better candidate quality.
--**Hiring Reels:** Employers and job seekers can create short video reels to showcase job openings or skills interactively.
--**Comprehensive Resume Display:** A structured and enhanced resume presentation for better candidate visibility.
+**Referral System:** Employees and professionals can refer candidates and earn rewards for successful hires.
+
+**Pre-Screening Interviews:** Referrers conduct short interviews before HR review, ensuring better candidate quality.
+
+**Hiring Reels:** Employers and job seekers can create short video reels to showcase job openings or skills interactively.
+
+**Comprehensive Resume Display:** A structured and enhanced resume presentation for better candidate visibility.
 
 ## Features
 
@@ -64,7 +67,7 @@ To develop ReferralNetworkHub, the following technologies we are using:
 
 ## Getting Started
 
-To get started with ReferralNetworkHub, please refer to the [documentation](./Documentation/README.md) for setup instructions and usage guidelines.
+To get started with ReferralNetworkHub, please refer to the [documentation](./Documentation/INSTALLATION.md) for setup instructions and usage guidelines.
 
 - **Flowchart:** Explore the flowchart illustrating user interactions [Flow Chart](https://excalidraw.com/#json=fVIWvKMsb247NQFTL-6Kz,HWjEg-ke3HRe4l0x9cq0XQ).
 
