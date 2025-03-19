@@ -1,7 +1,3 @@
-> ##  🚧 Work In Progress<br>
-> ### This project is under active development and might include breaking changes.
-
-
 # ReferralNetworkHub or ReferMe
 
 Welcome to ReferralNetworkHub or ReferMe- The open-source platform for connecting professionals and facilitating job referrals within companies.
@@ -99,6 +95,8 @@ I am Unable to upload long video due to github policies.
 https://github.com/user-attachments/assets/ab863194-d08d-4c9f-abce-634d8c913575
 
 ## Next Planning
+
+I has been invested my maximum time on creating flow chart and designing prototypes.
 
 ![ReferMe](https://github.com/user-attachments/assets/cf900095-b16d-4be2-b604-7d86f9de33cc)
 
