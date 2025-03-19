@@ -30,7 +30,7 @@ ReferMe is an AI-driven, referral-based hiring platform that streamlines recruit
 - **Pre-Screening Interviews:** Referrers conduct short interviews before HR review, ensuring better candidate quality.
 - **Hiring Reels:** Employers and job seekers can create short video reels to showcase job openings or skills interactively.
 - **Comprehensive Resume Display:** A structured and enhanced resume presentation for better candidate visibility.
-- 
+
 ## Features
 
 - **User Registration and Authentication:** Secure user sign-up and login functionality for both referrers and candidates.
