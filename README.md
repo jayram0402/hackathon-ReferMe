@@ -14,10 +14,12 @@ ReferralNetworkHub is a web-based as well as Mobile-based platform designed to s
 
 Traditional hiring is inefficient, with long recruitment cycles, poor candidate screening, and a lack of incentives for referrals. ReferMe solves this by introducing a referral-based hiring platform where professionals can refer candidates, earn rewards, and conduct short pre-screening interviews. The platform also features hiring reels for interactive job postings and comprehensive resume displays to improve candidate visibility. This community-driven approach streamlines hiring, enhances candidate quality, and incentivizes referrals, benefiting both employers and job seekers.
 
-As an Recruiter: 
+As an Job Seeker: 
+
 ![image](https://github.com/user-attachments/assets/24c06ead-2e1f-4919-a26e-697fde502329)
 
-As an Job Seeker: 
+As an Recruiter: 
+
 ![image](https://github.com/user-attachments/assets/d8110f95-9828-4b72-a5ba-19f6f31a3a49)
 
 ## Solution
