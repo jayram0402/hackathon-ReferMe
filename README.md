@@ -15,10 +15,10 @@ ReferralNetworkHub is a web-based as well as Mobile-based platform designed to s
 Traditional hiring is inefficient, with long recruitment cycles, poor candidate screening, and a lack of incentives for referrals. ReferMe solves this by introducing a referral-based hiring platform where professionals can refer candidates, earn rewards, and conduct short pre-screening interviews. The platform also features hiring reels for interactive job postings and comprehensive resume displays to improve candidate visibility. This community-driven approach streamlines hiring, enhances candidate quality, and incentivizes referrals, benefiting both employers and job seekers.
 
 As an Recruiter: 
-<img width="327" alt="ggg" src="https://github.com/user-attachments/assets/e1fa3b87-2a90-443e-82cb-7b806dc91b19" />
+![image](https://github.com/user-attachments/assets/24c06ead-2e1f-4919-a26e-697fde502329)
 
 As an Job Seeker: 
-<img width="325" alt="gggg" src="https://github.com/user-attachments/assets/ace5be67-47f5-43a1-920c-3449009f04ff" />
+![image](https://github.com/user-attachments/assets/d8110f95-9828-4b72-a5ba-19f6f31a3a49)
 
 ## Solution
 
@@ -92,6 +92,12 @@ I welcome you to see my platform full web app or mobile app design.
 ![image](https://github.com/user-attachments/assets/62b612b7-da5e-49dc-ac09-cf99e9bf8c68)
 
 ![image](https://github.com/user-attachments/assets/b21024f3-dabc-4c64-8cc9-6f0a01ca7799)
+
+## Demo Video:
+
+I am Unable to upload long video due to github policies.
+
+https://github.com/user-attachments/assets/ab863194-d08d-4c9f-abce-634d8c913575
 
 For more information or inquiries, you can contact at [jayramsharma0402@gmail.com](mailto:jayramsharma0402@gmail.com).
 
