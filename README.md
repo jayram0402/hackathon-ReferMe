@@ -66,6 +66,8 @@ To get started with ReferralNetworkHub, please refer to the [documentation](./Do
 
 - **Flowchart:** Explore the flowchart illustrating user interactions [Flow Chart](https://excalidraw.com/#json=fVIWvKMsb247NQFTL-6Kz,HWjEg-ke3HRe4l0x9cq0XQ).
 
+- **Presentation:** Explore the presentation of project [Presentation](./Documentation/PRESENTATION.md)
+
 ## Figma Design 
 
 I welcome you to see my platform full web app or mobile app design.
