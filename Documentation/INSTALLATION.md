@@ -44,19 +44,27 @@ To set up ReferralNetworkHub locally for development or testing purposes, follow
    - Install MongoDB locally or use a cloud-based service like MongoDB Atlas.
    - Update the database connection URL in the backend configuration files.
 
-6. Start the backend server:
+6. Generating a Secure Secret Key
+
+To generate a secure **SECRET_KEY** for your `.env` file, run the following command in your terminal:
+
+```bash
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+ ```
+
+7. Start the backend server:
    ```bash
    cd ../backend
    npm run dev
    ```
 
-7. Start the frontend development server:
+8. Start the frontend development server:
    ```bash
    cd ../frontend
    npm start
    ```
 
-8. Access the application in your web browser at `http://localhost:3000`.
+9. Access the application in your web browser at `http://localhost:3000`.
 
 ## Usage Guidelines
 
