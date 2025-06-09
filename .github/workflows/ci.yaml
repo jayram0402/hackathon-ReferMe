@@ -85,7 +85,7 @@ jobs:
 
       - name: Update tag in Helm chart
         run: |
-          sed -i 's/tag: .*/tag: "${{ github.run_id }}"/' helm/referme-frontend-chart/values.yaml
+          sed -i 's/tag: "REPLACE_ME_TAG"/tag: "${{ github.run_id }}"/' helm/referme-frontend-chart/values.yaml
 
       - name: Commit and push changes
         run: |
