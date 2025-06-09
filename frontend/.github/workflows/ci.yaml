@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+
+    paths:
+      - 'frontend/**'    
+
     paths-ignore:
       - 'README.md'
       - 'helm/**'
