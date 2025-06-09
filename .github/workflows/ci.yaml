@@ -89,10 +89,6 @@ jobs:
         run: |
            git config --global user.email "jayramsharma0402@gmail.com"
            git config --global user.name "Jayram Sharma"
-
-           # Add a dummy timestamp comment to force change
-           echo "# Updated at $(date)" >> frontend/referme-frontend-chart/values.yaml
-
            git add frontend/referme-frontend-chart/values.yaml
            git commit -m "Force update tag in Helm chart"
            git push
