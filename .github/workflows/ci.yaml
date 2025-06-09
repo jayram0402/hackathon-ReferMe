@@ -91,5 +91,6 @@ jobs:
            git config --global user.name "Jayram Sharma"
            git add frontend/referme-frontend-chart/values.yaml
            git commit -m "Force update tag in Helm chart"
+           git pull --rebase origin main
            git push
 
