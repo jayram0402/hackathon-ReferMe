@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: referme
+  labels:
+    app: referme
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: referme
+  template:
+    metadata:
+      labels:
+        app: referme
+    spec:
+      containers:
+      - name: referme
+        image: jayram0407/referme:latest
+        ports:
+        - containerPort: 3000
+
