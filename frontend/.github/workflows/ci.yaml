@@ -7,10 +7,6 @@ on:
 
     paths:
       - 'frontend/**'    
-
-    paths-ignore:
-      - 'README.md'
-      - 'helm/**'
       
 jobs:
 
