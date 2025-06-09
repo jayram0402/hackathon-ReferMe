@@ -9,7 +9,7 @@ const Help = () => {
     <div>
       <div className={styles.help}>
         <h1>Help</h1>
-        <p>This is Help Page</p>
+        <p>This is Help Page to users </p>
       </div>
     </div>
   );
