@@ -10,7 +10,7 @@ const Hero = () => {
             <h1>
               <b>Referral Network..!</b>
             </h1>
-            <p>Connecting Professional, Streamlining Referrals </p>
+            <p>Connecting Professionally, Streamlining Referrals </p>
             <JoinNow />
           </div>
         </div>
